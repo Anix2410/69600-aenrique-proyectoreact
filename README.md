@@ -11,10 +11,6 @@ Este proyecto fue realizado para cumplir con la entrega del curso ReactJS en Cod
 3. Instale dependencias con el comando `npm install`
 4. Para levantar la app en servidor local ejecute el comando `npm run dev`
 
-### Version Host 🌐
-
-Si desea ver el proyecto online, puede ingresar al siguiente link: [Bookify-ReactJS-AENRIQUE](https://bookify.vercel.app/)
-
 ### Librerias utilizadas 📚
 
 React https://react.dev/ — Librería principal utilizada para construir la aplicación SPA.
